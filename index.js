@@ -16,4 +16,5 @@ const voiceChannel = message.member.voiceChannel;
     }
   }
 });
-client.login('NjAxNTg2MzM3NTg1NTYxNjAx.XTQkMQ.Qq1FLzWX4xwA7azDsV37CeBnWqM');
+client.login('N
+            X4xwA7azDsV37CeBnWqM');
